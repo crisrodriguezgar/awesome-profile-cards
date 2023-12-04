@@ -1,4 +1,5 @@
 .footerCard {
+    cursor: url(../images/eyeball.png), auto;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -13,9 +14,11 @@
     height: 6vh;
     }
     &__copyRight {
+        cursor: url(../images/eyeball.png), auto;
         @include textStyle($openSans, $regular, 1.4rem, $brownishGrey);
     }
     &__logoCard {
+        cursor: url(../images/eyeball.png), auto;
         width: 15rem;
     }
 }

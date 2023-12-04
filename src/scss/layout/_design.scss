@@ -53,6 +53,7 @@
     &__1 {
       display: flex;
       align-items: center;
+      cursor: url(../images/cuchillo.png), auto;  
       &--color1 {
         @include rectangle($darkPurple);
       }
@@ -66,6 +67,7 @@
     &__2 {
       display: flex;
       align-items: center;
+      cursor: url(../images/cuchillo.png), auto;  
       &--color1 {
         @include rectangle($driedBlood);
       }
@@ -79,6 +81,7 @@
     &__3 {
       display: flex;
       align-items: center;
+      cursor: url(../images/cuchillo.png), auto;  
       &--color1 {
         @include rectangle($redF);
       }
@@ -92,6 +95,7 @@
     &__4 {
       display: flex;
       align-items: center;
+      cursor: url(../images/cuchillo.png), auto;  
       &--color1 {
         @include rectangle($darkGreenBlue);
       }
